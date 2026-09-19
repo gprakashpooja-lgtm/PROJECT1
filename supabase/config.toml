@@ -1,0 +1,9 @@
+project_id = "poluqjanjrksqmiozkgo"
+
+[functions.process-pdf]
+verify_jwt = true
+entrypoint = "./functions/process-pdf/index.ts"
+
+[functions.rag-query]
+verify_jwt = true
+entrypoint = "./functions/rag-query/index.ts"

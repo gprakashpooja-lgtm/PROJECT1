@@ -1,0 +1,1 @@
+{"root":["./src/App.tsx","./src/main.tsx","./src/components/AnswerPanel.tsx","./src/components/AskPanel.tsx","./src/components/EvaluationPanel.tsx","./src/components/EvidenceInspector.tsx","./src/components/Sidebar.tsx","./src/lib/supabase.ts","./src/types/index.ts"],"version":"5.9.3"}
