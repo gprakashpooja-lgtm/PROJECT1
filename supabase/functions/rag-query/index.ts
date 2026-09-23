@@ -28,7 +28,7 @@ interface QueryResponse {
 
 const GEMINI_EMBEDDING_MODEL = 'gemini-embedding-001';
 const EMBEDDING_DIM = 768;
-const GEMINI_ANSWER_MODEL = 'gemini-3.6-flash';
+const GEMINI_ANSWER_MODEL = 'gemini-2.5-flash-lite';
 const SIMILARITY_THRESHOLD = 0.50;
 const MATCH_COUNT = 5;
 
